@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**MarcusKyung/MarcusKyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Full-Stack Developer In Training
 
-Here are some ideas to get you started:
+#### About Me:
+University of San Diego Alumni (Class of 2017);<br>
+Epicodus Student (Full Time C#/React track student);<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages & Technologies
+- HTML
+- CSS/BootStrap
+- JavaScript
+- C#/.NET
+
+#### Say Hello!
+Email: Kyungmj@gmail.com;<br>
+LinkedIn: [MarcusKyung](https://www.linkedin.com/in/marcuskyung/);<br>
