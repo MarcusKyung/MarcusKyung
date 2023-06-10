@@ -1,13 +1,25 @@
-#### About Me:
-University of San Diego Alumni (Class of 2017);<br>
-Epicodus Student (Full Time C#/React track student);<br>
+# Welcome!  👋
 
-#### Languages & Technologies
-- HTML
+## About Me:
+After graduating from the University of San Diego in 2017 and working in the marketing field for the past several years I am excited to be making a career change to the programming/tech field. My passion for end user-centric problem solving and technology led me to take the leap and enroll in the Epicodus full-stack development bootcamp with an anticipated graduation date of September 2023. Over the course of this immerseive program I will learn and practice various programming languages and frameworks including JavaScript, C#, React, HTML, CSS, and more. Upon graduating I hope to apply my new skills in a developer role and look forward to bringing my background as a project manager to my future team/organization. In addition to programming I enjoy the 
+
+## About Epicodus:
+Epicodus is a PNW 
+
+## Languages & Technologies:
+- HTML 5
 - CSS/BootStrap
-- JavaScript
-- C#/.NET
+- JavaScript/Node.Js
+- C#/.NET (EF Core
+- MySQL/MySQLWorkbench
 
-#### Say Hello!
+## Recent Work Experience:
+- Radd Interactive - [SEO Analyst](https://www.linkedin.com/in/marcuskyung/)<br>
+- MCRD Museum Foundation - [Director of Marketing](https://www.linkedin.com/in/marcuskyung/)<br>
+- Red Door Interactive - [Client Services Associate/Producer (Project Manager)](https://www.linkedin.com/in/marcuskyung/)<br>
+
+#### Connect With Me!:
 Email: Kyungmj@gmail.com;<br>
-LinkedIn: [MarcusKyung](https://www.linkedin.com/in/marcuskyung/);<br>
+LinkedIn: [MarcusKyung](https://www.linkedin.com/in/marcuskyung/)<br>
+Instagram: [MarcusKyung](https://www.instagram.com/marcuskyung/)<br>
+
