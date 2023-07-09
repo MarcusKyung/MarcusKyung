@@ -14,3 +14,5 @@ LinkedIn: [MarcusKyung](https://www.linkedin.com/in/marcuskyung/)<br>
 Instagram: [MarcusKyung](https://www.instagram.com/marcuskyung/)<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack,js,cs,dotnet,react,mysql,github,vscode,postman,bots)](https://skillicons.dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MarcusKyung&theme=dark)](https://git.io/streak-stats)
