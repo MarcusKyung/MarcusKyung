@@ -15,14 +15,14 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - LinkedIn - [MarcusKyung](https://www.linkedin.com/in/marcuskyung/)<br>
 
 ## What I'm Reading:
-- Sandworm (Andy Greenberg)
-- The Cuckoo's Egg (Cliff Stoll)
+- Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers (Andy Greenberg)
+- The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage (Cliff Stoll)
 - The Missing README (Chris Riccomini, Dmitriy Ryaboy)
 - Wool (Hugh Howey)
 - Make Your Bed (Adm. William H. McRaven)
 
 ## Skills/Technologies: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack,js,cs,dotnet,react,mysql,github,vscode,postman,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack,js,ts,cs,dotnet,react,mysql,github,vscode,postman,bots)](https://skillicons.dev)
 
 ## GitHub Stats: 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MarcusKyung&theme=dark)](https://git.io/streak-stats)
