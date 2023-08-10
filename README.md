@@ -14,15 +14,15 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - Email - Kyungmj@gmail.com<br>
 - LinkedIn - [MarcusKyung](https://www.linkedin.com/in/marcuskyung/)<br>
 
-## What I'm Reading:
+## What I'm Reading (August 2023):
 - Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers (Andy Greenberg)
 - The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage (Cliff Stoll)
 - The Missing README (Chris Riccomini, Dmitriy Ryaboy)
 - Wool (Hugh Howey)
-- Make Your Bed (Adm. William H. McRaven)
+- Make Your Bed (Adm. William H. McRaven)  ✅
 
 ## Skills/Technologies: 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,cs,bootstrap,git,github,dotnet,jest,webpack,mysql,vscode,postman,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,cs,bootstrap,git,github,dotnet,jest,webpack,mysql,vscode,postman,bots&perline=8)](https://skillicons.dev)
 
 
 ## GitHub Stats: 
