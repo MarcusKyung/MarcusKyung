@@ -6,9 +6,9 @@ After graduating from the University of San Diego in 2017 and working in the mar
 Want to collaborate, ask a question, or refer a job post? Reach out via email at Kyungmj@gmail.com or via [LinkedIn](https://www.linkedin.com/in/marcuskyung/)!
 
 ## Recent Work Experience:
-- Radd Interactive - [SEO Analyst](https://www.linkedin.com/in/marcuskyung/)<br>
+- Radd Interactive - [Content Writer (Intern), SEO Analyst](https://www.linkedin.com/in/marcuskyung/)<br>
 - MCRD Museum Foundation - [Director of Marketing](https://www.linkedin.com/in/marcuskyung/)<br>
-- Red Door Interactive - [Producer, (Project Manager)](https://www.linkedin.com/in/marcuskyung/)<br>
+- Red Door Interactive - [Client Services Associate, Producer, (Project Manager)](https://www.linkedin.com/in/marcuskyung/)<br>
 
 ## Connect With Me!:
 - Email - Kyungmj@gmail.com<br>
@@ -22,7 +22,8 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - Make Your Bed (Adm. William H. McRaven)
 
 ## Skills/Technologies: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,webpack,js,ts,cs,dotnet,react,mysql,github,vscode,postman,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,cs,bootstrap,git,github,dotnet,jest,webpack,mysql,vscode,postman,bots)](https://skillicons.dev)
+
 
 ## GitHub Stats: 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MarcusKyung&theme=dark)](https://git.io/streak-stats)
