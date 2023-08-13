@@ -6,9 +6,9 @@ After graduating from the University of San Diego in 2017 and working in the mar
 Want to collaborate, ask a question, or refer a job post? Reach out via email at Kyungmj@gmail.com or via [LinkedIn](https://www.linkedin.com/in/marcuskyung/)!
 
 ## Recent Work Experience:
-- Radd Interactive - [Content Writer (Intern), SEO Analyst](https://www.linkedin.com/in/marcuskyung/)<br>
-- MCRD Museum Foundation - [Director of Marketing](https://www.linkedin.com/in/marcuskyung/)<br>
-- Red Door Interactive - [Client Services Associate, Producer, (Project Manager)](https://www.linkedin.com/in/marcuskyung/)<br>
+- Red Door Interactive (2022-23) - [Client Services Associate, Producer, (Project Manager)](https://www.linkedin.com/in/marcuskyung/)<br>
+- MCRD Museum Foundation (2019-2022) - [Director of Marketing](https://www.linkedin.com/in/marcuskyung/)<br>
+- Radd Interactive (2017-2019) - [Content Writer (Intern), SEO Analyst](https://www.linkedin.com/in/marcuskyung/)<br>
 
 ## Connect With Me!:
 - Email - Kyungmj@gmail.com<br>
