@@ -22,7 +22,7 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - Make Your Bed (Adm. William H. McRaven)  ✅
 
 ## Skills/Technologies: 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,cs,bootstrap,git,github,dotnet,jest,webpack,mysql,vscode,postman,bots&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,cs,bootstrap,git,github,sass,dotnet,jest,webpack,mysql,vscode,postman,bots&perline=8)](https://skillicons.dev)
 
 
 ## GitHub Stats: 
