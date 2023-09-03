@@ -6,6 +6,7 @@ After graduating from the University of San Diego in 2017 and working in the mar
 Want to collaborate, ask a question, or refer a job post? Reach out via email at Kyungmj@gmail.com or via [LinkedIn](https://www.linkedin.com/in/marcuskyung/)!
 
 ## Recent Work Experience:
+- Opine (2023-Current) - [Software Development Intern](https://www.linkedin.com/in/marcuskyung/)<br>
 - Red Door Interactive (2022-23) - [Client Services Associate, Producer, (Project Manager)](https://www.linkedin.com/in/marcuskyung/)<br>
 - MCRD Museum Foundation (2019-2022) - [Director of Marketing](https://www.linkedin.com/in/marcuskyung/)<br>
 - Radd Interactive (2017-2019) - [Content Writer (Intern), SEO Analyst](https://www.linkedin.com/in/marcuskyung/)<br>
@@ -14,14 +15,17 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - Email - Kyungmj@gmail.com<br>
 - LinkedIn - [MarcusKyung](https://www.linkedin.com/in/marcuskyung/)<br>
 
-## What I'm Reading (August 2023):
-- Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers (Andy Greenberg) ✅
-- Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency (Andy Greenberg) ✅
-- It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness (Seth Wickersham)
+## What I'm Reading Now (September 2023):
 - The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage (Cliff Stoll)
+- It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness (Seth Wickersham)
 - The Missing README (Chris Riccomini, Dmitriy Ryaboy)
 - Wool (Hugh Howey)
+
+## Recommended Recent Reads:
+- Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers (Andy Greenberg) ✅
+- Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency (Andy Greenberg) ✅
 - Make Your Bed (Adm. William H. McRaven)  ✅
+- Can't Hurt Me: Master Your Mind and Defy the Odds (David Goggins) ✅
 
 ## Skills/Technologies: 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,cs,bootstrap,materialui,git,github,sass,dotnet,firebase,jest,webpack,mysql,vscode,postman,bots&perline=8)](https://skillicons.dev)
