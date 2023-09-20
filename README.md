@@ -19,7 +19,7 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage (Cliff Stoll)
 - It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness (Seth Wickersham)
 - The Missing README (Chris Riccomini, Dmitriy Ryaboy)
-- Wool (Hugh Howey)
+- Shift (Hugh Howey)
 - Dark Matter (Blake Crouch)
 
 ## Recommended Recent Reads:
