@@ -20,7 +20,6 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness (Seth Wickersham)
 - The Missing README (Chris Riccomini, Dmitriy Ryaboy)
 - Shift (Hugh Howey)
-- Dark Matter (Blake Crouch)
 
 ## Recommended Recent Reads:
 - Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers (Andy Greenberg) ✅
