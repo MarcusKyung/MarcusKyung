@@ -22,10 +22,10 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - Shift (Hugh Howey)
 
 ## Recommended Recent Reads:
-- Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers (Andy Greenberg) ✅
-- Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency (Andy Greenberg) ✅
-- Make Your Bed (Adm. William H. McRaven)  ✅
-- Can't Hurt Me: Master Your Mind and Defy the Odds (David Goggins) ✅
+- Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers (Andy Greenberg) 
+- Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency (Andy Greenberg) 
+- Make Your Bed (Adm. William H. McRaven)  
+- Can't Hurt Me: Master Your Mind and Defy the Odds (David Goggins) 
 
 ## Skills/Technologies: 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,cs,bootstrap,materialui,git,github,sass,dotnet,firebase,jest,webpack,mysql,postman,&perline=9)](https://skillicons.dev)
