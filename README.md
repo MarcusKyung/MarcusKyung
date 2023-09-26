@@ -15,11 +15,12 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - Email - Kyungmj@gmail.com<br>
 - LinkedIn - [MarcusKyung](https://www.linkedin.com/in/marcuskyung/)<br>
 
-## What I'm Reading Now (September 2023):
+## What I'm Reading This Month:
 - The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage (Cliff Stoll)
 - It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness (Seth Wickersham)
 - The Missing README (Chris Riccomini, Dmitriy Ryaboy)
 - Shift (Hugh Howey)
+- Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster (Adam Higginbotham)
 
 ## Recommended Recent Reads:
 - Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers (Andy Greenberg) 
