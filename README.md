@@ -41,6 +41,7 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MarcusKyung&theme=dark)](https://git.io/streak-stats)
 
 ## Just for Fun: 
-- (NPM Package) cli-magic-8ball - NPM Package which initiates a "Magic 8 ball" in your terminal - [npm](https://www.npmjs.com/package/cli-howdy)<br>
-- (NPM Package) clack-cli-cypher - NPM Package Initiates a substitution cypher program in your terminal - [github](https://www.npmjs.com/package/cli-howdy)<br>
-- (NPM Package) cli-howdy - NPM Package which prints "Howdy Partner" to your command line - [npm](https://www.npmjs.com/package/cli-howdy)<br>
+- [Chrome Extension](https://chrome.google.com/webstore/detail/brewfinder/fkpeaflfbnlccciohmbeejiihnmkkcjm) - BrewFinder - Chrome Extension which locates nearest brewery
+- [NPM Package](https://www.npmjs.com/package/cli-howdy) - cli-magic-8ball - NPM Package which initiates a "Magic 8 ball" in your terminal<br>
+- [NPM Package](https://www.npmjs.com/package/cli-howdy) - clack-cli-cypher - NPM Package Initiates a substitution cypher program in your terminal<br>
+- [NPM Package](https://www.npmjs.com/package/cli-howdy) - cli-howdy - NPM Package which prints "Howdy Partner" to your command line<br>
