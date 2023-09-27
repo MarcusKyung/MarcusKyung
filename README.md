@@ -41,5 +41,6 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MarcusKyung&theme=dark)](https://git.io/streak-stats)
 
 ## Just for Fun: 
-- (NPM Package) cli-howdy - [NPM Package which prints "Howdy Partner" to your command line](https://www.npmjs.com/package/cli-howdy)<br>
-- (NPM Package) clack-cli-cypher - [Initiates a substitution cypher program in your terminal](https://www.npmjs.com/package/cli-howdy)<br>
+- (NPM Package) cli-magic-8ball - NPM Package which initiates a "Magic 8 ball" in your terminal - [npm](https://www.npmjs.com/package/cli-howdy)<br>
+- (NPM Package) clack-cli-cypher - NPM Package Initiates a substitution cypher program in your terminal - [github](https://www.npmjs.com/package/cli-howdy)<br>
+- (NPM Package) cli-howdy - NPM Package which prints "Howdy Partner" to your command line - [npm](https://www.npmjs.com/package/cli-howdy)<br>
