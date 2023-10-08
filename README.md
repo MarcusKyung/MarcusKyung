@@ -23,7 +23,7 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage (Cliff Stoll)
 - It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness (Seth Wickersham)
 - The Missing README (Chris Riccomini, Dmitriy Ryaboy)
-- Dust (Hugh Howey)
+- Das Reboot: How German Soccer Reinvented Itself and Conquered the World (Raphael Honigstein)
 - Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster (Adam Higginbotham)
 
 ## Recommended Recent Reads:
