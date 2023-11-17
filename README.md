@@ -21,11 +21,11 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 
 ## What I'm Reading This Month:
 - The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage (Cliff Stoll)
-- The Road to React (Robin Wieruch)
 - It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness (Seth Wickersham)
 - The Missing README (Chris Riccomini, Dmitriy Ryaboy)
 - Das Reboot: How German Soccer Reinvented Itself and Conquered the World (Raphael Honigstein)
 - Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster (Adam Higginbotham)
+- Upgrade (Blake Crouch)
 
 ## Recommended Recent Reads:
 - Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers (Andy Greenberg) 
