@@ -10,7 +10,7 @@ When I am not programming/debugging I enjoy exploring Portland/the PNW, reading,
 Want to collaborate, ask a question, or refer a job post? Reach out via email at Kyungmj@gmail.com or via [LinkedIn](https://www.linkedin.com/in/marcuskyung/)!
 
 ## Recent Work Experience:
-- Opine (2023-Present) - [Software Development Intern](https://www.linkedin.com/in/marcuskyung/)<br>
+- Opine (2023-2023) - [Software Development Intern](https://www.linkedin.com/in/marcuskyung/)<br>
 - Red Door Interactive (2022-2023) - [Client Services Associate, Producer, (Project Manager)](https://www.linkedin.com/in/marcuskyung/)<br>
 - MCRD Museum Foundation (2019-2022) - [Director of Marketing](https://www.linkedin.com/in/marcuskyung/)<br>
 - Radd Interactive (2017-2019) - [Content Writer (Intern), SEO Analyst](https://www.linkedin.com/in/marcuskyung/)<br>
