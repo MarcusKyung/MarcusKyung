@@ -34,7 +34,7 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - Silo Series (Hugh Howey)
 
 ## Skills/Technologies: 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,electron,next,cs,bootstrap,materialui,git,github,sass,dotnet,firebase,jest,webpack,mysql,postman,vite,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,electron,next,cs,bootstrap,materialui,git,github,sass,dotnet,firebase,jest,python,selenium,webpack,mysql,postman,vite,&perline=9)](https://skillicons.dev)
 
 
 ## GitHub Stats: 
