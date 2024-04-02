@@ -1,12 +1,5 @@
 # Welcome!  👋
 
-## About Me:
-After graduating from the University of San Diego in 2017 and working in the marketing field for the past several years I am excited to transition to a hands on role in software. 
-
-My passion for real-world problem solving and technology led me to enroll in and complete a program through Portland, OR-based Epicodus in early 2023. Over the course of this 27-week immersive full stack bootcamp program I learned to use various programming languages and fundamental technologies including JavaScript, C#/.NET, React, HTML5, CSS/Bootstrap, Git/GitHub, Firebase, MySQL, and many others. I am currently seeking full time junior developer roles and look forward to bringing not only my technical skills but also my background and experience as a project manager and organizational leader to my future team/organization. 
-
-When I am not programming/debugging I enjoy exploring Portland/the PNW, reading, watching Formula 1, and playing board games with friends and family. 
-
 Want to collaborate, ask a question, or refer a job post? Reach out via email at Kyungmj@gmail.com or via [LinkedIn](https://www.linkedin.com/in/marcuskyung/)!
 
 ## Recent Work Experience:
@@ -20,10 +13,9 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 - LinkedIn - [MarcusKyung](https://www.linkedin.com/in/marcuskyung/)<br>
 
 ## What I'm Reading This Month:
-- The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage (Cliff Stoll)
+- The Pentagon Wars (James Burton)
 - It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness (Seth Wickersham)
 - Das Reboot: How German Soccer Reinvented Itself and Conquered the World (Raphael Honigstein)
-- Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster (Adam Higginbotham)
 - Chip War: The Fight for the World’s Most Critical Technology (Chris Miller)
 
 ## Recommended Recent Reads:
@@ -41,6 +33,7 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MarcusKyung&theme=dark)](https://git.io/streak-stats)
 
 ## Just for Fun: 
+- [Greenhouse.io Job Scraper]([https://chrome.google.com/webstore/detail/brewfinder/fkpeaflfbnlccciohmbeejiihnmkkcjm](https://github.com/MarcusKyung/greenhouse.io-scraper)) - Greenhouse.io Job Scraper - Scrapes Greenhouse.io careers pages to identify job posting dates
 - [Chrome Extension](https://chrome.google.com/webstore/detail/brewfinder/fkpeaflfbnlccciohmbeejiihnmkkcjm) - BrewFinder - Chrome Extension which locates nearest brewery
 - [NPM Package](https://www.npmjs.com/package/cli-magic-8ball) - npx cli-magic-8ball - NPM Package which initiates a "Magic 8 ball" in your terminal<br>
 - [NPM Package](https://www.npmjs.com/package/cli-clack-cypher) - npx clack-cli-cypher - NPM Package Initiates a substitution cypher program in your terminal<br>
