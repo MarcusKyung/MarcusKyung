@@ -33,7 +33,7 @@ Want to collaborate, ask a question, or refer a job post? Reach out via email at
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MarcusKyung&theme=dark)](https://git.io/streak-stats)
 
 ## Just for Fun: 
-- [Greenhouse.io Job Scraper]([https://chrome.google.com/webstore/detail/brewfinder/fkpeaflfbnlccciohmbeejiihnmkkcjm](https://github.com/MarcusKyung/greenhouse.io-scraper)) - Greenhouse.io Job Scraper - Scrapes Greenhouse.io careers pages to identify job posting dates
+- [Greenhouse.io Job Scraper](https://github.com/MarcusKyung/greenhouse.io-scraper) - Greenhouse.io Job Scraper - Scrapes Greenhouse.io careers pages to identify job posting dates
 - [Chrome Extension](https://chrome.google.com/webstore/detail/brewfinder/fkpeaflfbnlccciohmbeejiihnmkkcjm) - BrewFinder - Chrome Extension which locates nearest brewery
 - [NPM Package](https://www.npmjs.com/package/cli-magic-8ball) - npx cli-magic-8ball - NPM Package which initiates a "Magic 8 ball" in your terminal<br>
 - [NPM Package](https://www.npmjs.com/package/cli-clack-cypher) - npx clack-cli-cypher - NPM Package Initiates a substitution cypher program in your terminal<br>
