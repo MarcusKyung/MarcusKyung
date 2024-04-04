@@ -1,6 +1,6 @@
 # Welcome!  👋
 
-Want to collaborate, ask a question, or share a job post? Reach out via email at Kyungmj@gmail.com or via [LinkedIn](https://www.linkedin.com/in/marcuskyung/)!
+Hi! I'm Marcus. I'm a project manager, marketer, and JS/Python developer from Portland, Oregon. Want to collaborate, ask a question, or share a job post? Reach out via email at Kyungmj@gmail.com or via [LinkedIn](https://www.linkedin.com/in/marcuskyung/)!
 
 ## Recent Work Experience:
 - Distributed Developers (2023-Present) - [Project Manager/Developer](https://www.linkedin.com/in/marcuskyung/)<br>
