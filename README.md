@@ -3,7 +3,7 @@
 Hi! I'm Marcus. I'm a project manager, marketer, and JS/Python developer from Portland, Oregon. Want to collaborate, ask a question, or share a job post? Reach out via email at Kyungmj@gmail.com or via [LinkedIn](https://www.linkedin.com/in/marcuskyung/)!
 
 ## Recent Work Experience:
-- Distributed Developers (2023-Present) - [Project Manager/Developer](https://www.linkedin.com/in/marcuskyung/)<br>
+- First Tech Federal Credit Union (2024-Present) - [Marketing Project Manager II](https://www.linkedin.com/in/marcuskyung/)<br>
 - Opine (2023-2023) - [Software Development Intern](https://www.linkedin.com/in/marcuskyung/)<br>
 - Red Door Interactive (2022-2023) - [Client Services Associate, Producer, (Project Manager)](https://www.linkedin.com/in/marcuskyung/)<br>
 - MCRD Museum Foundation (2019-2022) - [Project Manager/Marketing Director](https://www.linkedin.com/in/marcuskyung/)<br>
